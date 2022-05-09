@@ -1,0 +1,15 @@
+C:\Users\Tiger\OneDrive\Documents\April.C#\JoiningDataLab\JoiningDataLab\obj\Debug\net6.0\JoiningDataLab.csproj.AssemblyReference.cache
+C:\Users\Tiger\OneDrive\Documents\April.C#\JoiningDataLab\JoiningDataLab\obj\Debug\net6.0\JoiningDataLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiger\OneDrive\Documents\April.C#\JoiningDataLab\JoiningDataLab\obj\Debug\net6.0\JoiningDataLab.AssemblyInfoInputs.cache
+C:\Users\Tiger\OneDrive\Documents\April.C#\JoiningDataLab\JoiningDataLab\obj\Debug\net6.0\JoiningDataLab.AssemblyInfo.cs
+C:\Users\Tiger\OneDrive\Documents\April.C#\JoiningDataLab\JoiningDataLab\obj\Debug\net6.0\JoiningDataLab.csproj.CoreCompileInputs.cache
+C:\Users\Tiger\OneDrive\Documents\April.C#\JoiningDataLab\JoiningDataLab\bin\Debug\net6.0\JoiningDataLab.exe
+C:\Users\Tiger\OneDrive\Documents\April.C#\JoiningDataLab\JoiningDataLab\bin\Debug\net6.0\JoiningDataLab.deps.json
+C:\Users\Tiger\OneDrive\Documents\April.C#\JoiningDataLab\JoiningDataLab\bin\Debug\net6.0\JoiningDataLab.runtimeconfig.json
+C:\Users\Tiger\OneDrive\Documents\April.C#\JoiningDataLab\JoiningDataLab\bin\Debug\net6.0\JoiningDataLab.dll
+C:\Users\Tiger\OneDrive\Documents\April.C#\JoiningDataLab\JoiningDataLab\bin\Debug\net6.0\ref\JoiningDataLab.dll
+C:\Users\Tiger\OneDrive\Documents\April.C#\JoiningDataLab\JoiningDataLab\bin\Debug\net6.0\JoiningDataLab.pdb
+C:\Users\Tiger\OneDrive\Documents\April.C#\JoiningDataLab\JoiningDataLab\obj\Debug\net6.0\JoiningDataLab.dll
+C:\Users\Tiger\OneDrive\Documents\April.C#\JoiningDataLab\JoiningDataLab\obj\Debug\net6.0\ref\JoiningDataLab.dll
+C:\Users\Tiger\OneDrive\Documents\April.C#\JoiningDataLab\JoiningDataLab\obj\Debug\net6.0\JoiningDataLab.pdb
+C:\Users\Tiger\OneDrive\Documents\April.C#\JoiningDataLab\JoiningDataLab\obj\Debug\net6.0\JoiningDataLab.genruntimeconfig.cache
